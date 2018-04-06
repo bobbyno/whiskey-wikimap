@@ -1,0 +1,27 @@
+created: 20180406205333133
+modified: 20180406205458412
+tags: 
+title: History of Wikis
+tmap.id: 134fb294-1237-4218-8c1b-c9d185ac06d1
+type: text/vnd.tiddlywiki
+
+Origins of the wiki: https://en.wikipedia.org/wiki/History_of_wikis#WikiWikiWeb,_the_first_wiki
+
+See also http://wiki.c2.com/?WikiHistory
+
+The original name of the first wiki was WikiWikiWeb, a web of People, Projects, and Patterns.
+
+~WikiWikiWeb =>
+
+~VeryQuickWeb =>
+
+Web as Giant Global Graph =>
+
+Network as a Graph that represents something real: matter or information =>
+-- Network doesn't mean "graph database". A network is a relatively simple data structure to persist. It is slightly more complicated to create an in-memory graph representation to allow computation on this data. If you don't have the overhead of ACID transactions, authorization, and horizontal scalability, in-memory will take you far.
+
+~VeryQuickNetwork =>
+
+~TiddlyMap
+
+[[Ward on Inventing the Wiki]]
